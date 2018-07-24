@@ -1,2 +1,0 @@
-/usr/local/lib/libccli.dylib
-/usr/local/include/ccli/app.h

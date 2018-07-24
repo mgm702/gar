@@ -1,3 +1,0 @@
-/Users/mmichnal/code/github/development/ccli/cmake-testing/CMakeFiles/rebuild_cache.dir
-/Users/mmichnal/code/github/development/ccli/cmake-testing/CMakeFiles/edit_cache.dir
-/Users/mmichnal/code/github/development/ccli/cmake-testing/CMakeFiles/hello.dir
