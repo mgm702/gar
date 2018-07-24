@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ccli/app.h
+string.h
+-
+
+/Users/mmichnal/code/github/development/ccli/src/app.c
+ccli/app.h
+-
+vector.h
+/Users/mmichnal/code/github/development/ccli/src/vector.h
+
+/Users/mmichnal/code/github/development/ccli/src/vector.h
+stddef.h
+-
+stdlib.h
+-
+assert.h
+-
+

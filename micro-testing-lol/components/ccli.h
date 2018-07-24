@@ -1,0 +1,5 @@
+//#include "bflag.h"
+//#include "sflag.h"
+#include "command.h"
+#include "app.h"
+#include "input.h"

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -dynamiclib -Wl,-headerpad_max_install_names  -o libccli.dylib -install_name @rpath/libccli.dylib CMakeFiles/ccli.dir/app.c.o 

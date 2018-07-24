@@ -1,0 +1,13 @@
+/Users/mmichnal/code/github/development/ccli/build/CMakeFiles/install/local.dir
+/Users/mmichnal/code/github/development/ccli/build/CMakeFiles/install/strip.dir
+/Users/mmichnal/code/github/development/ccli/build/CMakeFiles/install.dir
+/Users/mmichnal/code/github/development/ccli/build/CMakeFiles/list_install_components.dir
+/Users/mmichnal/code/github/development/ccli/build/CMakeFiles/rebuild_cache.dir
+/Users/mmichnal/code/github/development/ccli/build/CMakeFiles/edit_cache.dir
+/Users/mmichnal/code/github/development/ccli/build/src/CMakeFiles/install/strip.dir
+/Users/mmichnal/code/github/development/ccli/build/src/CMakeFiles/install.dir
+/Users/mmichnal/code/github/development/ccli/build/src/CMakeFiles/list_install_components.dir
+/Users/mmichnal/code/github/development/ccli/build/src/CMakeFiles/rebuild_cache.dir
+/Users/mmichnal/code/github/development/ccli/build/src/CMakeFiles/edit_cache.dir
+/Users/mmichnal/code/github/development/ccli/build/src/CMakeFiles/install/local.dir
+/Users/mmichnal/code/github/development/ccli/build/src/CMakeFiles/ccli.dir
